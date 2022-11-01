@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\06-Modal\\starter"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "07-Pig-Game"
+  }
+}
